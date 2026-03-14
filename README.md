@@ -1,31 +1,18 @@
 <div align="center">
 
-<!-- Dynamic Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yang;Full+Stack+Developer+%7C+Open+Source+Lover" alt="Typing SVG" />
-</a>
 
-<br/>
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-58a6ff?style=flat-square" />
-<img src="https://img.shields.io/badge/Lives-China-58a6ff?style=flat-square" />
-<img src="https://img.shields.io/github/followers/10240418?label=Followers&style=flat-square&color=58a6ff" />
-<img src="https://komarev.com/ghpvc/?username=10240418&label=Profile%20Views&color=58a6ff&style=flat-square" />
-
-</div>
-
----
 
 ### 🧑‍💻 About Me
 
-> *A college student who loves computer science and open-source technology.*
-
-- 🔭 Currently working on **Smart IoT** & **Full-Stack Applications**
-- 🌱 Building with **Vue 3 · Go · Flutter · TypeScript**
-- 🤝 Contributing to multiple open-source organizations
-- ⚡ 470+ contributions in the past year
-
+> *Hi i'm stitch,love computer science and open-source technology.*
+- Passionate about full-stack development, love building complete projects from scratch
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10240418/10240418/output/github-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/10240418/10240418/output/github-snake.svg">
+  <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/10240418/10240418/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 🛠️ Tech Stack
 
@@ -44,39 +31,44 @@
 **Backend**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Tools & Platforms**
+**Database & Cache**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**DevOps & Deployment**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Streaming & Networking**
+
+![MediaMTX](https://img.shields.io/badge/MediaMTX-FF6F00?style=for-the-badge&logo=webrtc&logoColor=white)
+![FRP](https://img.shields.io/badge/FRP-00979D?style=for-the-badge&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Domain_&_DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Desktop & Mobile**
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=10240418&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10240418&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=10240418&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
-
----
-
-### 🚇 Contribution Metro Map
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=10240418&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Metro%20Map" />
-</div>
-
----
 
 ### 🏛️ Organization Contributions
 
@@ -111,19 +103,3 @@
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=10240418&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" width="100%" />
-
-*⭐ From [10240418](https://github.com/10240418) — "Code is poetry, open source is freedom."*
-
-</div>
